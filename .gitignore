@@ -1,33 +1,1 @@
-# https://t.me/zhukovever
-# Built application files
-*.apk
-*.ap_
-*.aab
-
-# Local configuration file (sdk path, etc)
-local.properties
-
-# Gradle files
-.gradle/
-
-# User-specific configurations
-*.iml
-
-# OS-specific files
-.DS_Store
-.DS_Store?
-._*
-.Spotlight-V100
-.Trashes
-ehthumbs.db
-Thumbs.db
-
-# Version control
-vcs.xml
-
-# lint
-lint/intermediates/
-lint/generated/
-lint/outputs/
-lint/tmp/
-lint/reports/
+# https://t.me/zhukovever# Built application filesbuild/*.apk*.ap_*.aab# Files for the ART/Dalvik VM*.dex# External native build folder generated in Android Studio 2.2 and later.externalNativeBuild# Gradle files.gradle/# Signing files.signing/# User-specific configurations*.iml# Local configuration file (sdk path, etc)local.properties# OS-specific files.DS_Store.DS_Store?._*.Spotlight-V100.Trashesehthumbs.dbThumbs.db# Version controlvcs.xml*.orig# lintlint/intermediates/lint/generated/lint/outputs/lint/tmp/lint/reports/
